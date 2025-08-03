@@ -1,10 +1,10 @@
 
-```markdown
+
 # 🎴 Card Hover Animation
 
 A sleek and minimal HTML/CSS card hover animation designed to highlight content like titles, roles, or user information. Ideal for portfolio sections, feature showcases, or content previews.
 
----
+```
 
 ## 🔍 Features
 
@@ -13,20 +13,15 @@ A sleek and minimal HTML/CSS card hover animation designed to highlight content 
 - 🎨 Fully customizable via CSS
 - 📱 Mobile-friendly design
 
----
-
-## 📁 Project Structure
-
 ```
 
+## 📁 Project Structure
+```
 CardHover-Animation/
 ├── index.html       # Main HTML file
 ├── style.css        # All styling and hover animations
 └── README.md        # Project documentation
-
-````
-
----
+```
 
 ## 🚀 How to Use
 
@@ -34,7 +29,7 @@ CardHover-Animation/
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/CardHover-Animation.git
-````
+```
 
 2. Open `index.html` in your browser to see the animation.
 
