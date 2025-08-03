@@ -37,7 +37,7 @@ git clone https://github.com/YOUR_USERNAME/CardHover-Animation.git
 
 ## 🌐 Live Demo
 
-> \[Add a GitHub Pages link here after deployment]
+> [Visit my project](https://krushna-chandra.github.io/Cardhover-animation/)
 
 ---
 
