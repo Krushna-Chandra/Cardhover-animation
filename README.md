@@ -28,7 +28,7 @@ CardHover-Animation/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CardHover-Animation.git
+git clone https://github.com/Krushna-Chandra/Cardhover-animation.git
 ```
 
 2. Open `index.html` in your browser to see the animation.
